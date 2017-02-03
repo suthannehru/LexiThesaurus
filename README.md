@@ -5,13 +5,19 @@ An application for Amazon-Alexa that retrieves definition and synonyms for words
 COMMANDS FOR THE DICTIONARY
 
 What is the definition of {WordDef} 
+
 What is the meaning of {WordDef}
+
 Definition of {WordDef}
+
 Meaning of {WordDef}
+
 What does {WordDef} mean
+
 Define {WordDef}
 
 COMMANDS FOR THE THESAURUS
 
 What is a synonym for {WordSyn}
+
 Synonym of {WordSyn} 
