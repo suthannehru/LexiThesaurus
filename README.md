@@ -1,23 +1,40 @@
-# Amazon-Alexa-Dictionary-and-Thesaurus
+# LexiThesaurus: An Interactive Dictionary and Thesaurus Alexa Skill
 
-An application for Amazon-Alexa that retrieves definition and synonyms for words using a dictionary and thesaurus API
+LexiThesaurus is an Amazon Alexa skill that provides definitions and synonyms for words. Using a dictionary and thesaurus API, it offers an interactive way for users to expand their vocabulary and find the meanings and synonyms of words effortlessly.
 
-COMMANDS FOR THE DICTIONARY
+## Features
 
-What is the definition of {WordDef} 
+- Retrieves the definition of a given word.
+- Provides synonyms for a given word.
 
-What is the meaning of {WordDef}
+## Installation
 
-Definition of {WordDef}
+To get started with LexiThesaurus, you will need to:
 
-Meaning of {WordDef}
+1. Clone this repository.
+   ```sh
+   git clone https://github.com/your-username/LexiThesaurus.git
 
-What does {WordDef} mean
+2. Navigate to the project directory.
+   ```sh
+   cd LexiThesaurus
+   
+## Usage
 
-Define {WordDef}
+Commands for the Dictionary
 
-COMMANDS FOR THE THESAURUS
+You can ask Alexa for the definition of a word using any of the following commands:
 
-What is a synonym for {WordSyn}
+- "What is the definition of {WordDef}"
+- "What is the meaning of {WordDef}"
+- "Definition of {WordDef}"
+- "Meaning of {WordDef}"
+- "What does {WordDef} mean"
+- "Define {WordDef}"
 
-Synonym of {WordSyn} 
+Commands for the Thesaurus
+
+You can ask Alexa for synonyms of a word using any of the following commands:
+
+- "What is a synonym for {WordSyn}"
+- "Synonym of {WordSyn}"
